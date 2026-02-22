@@ -4,7 +4,6 @@ namespace TestApp.UnitTests;
 
 public class EmailTests
 {
-    // TODO: finish test
     [Test]
     public void Test_IsValidEmail_ValidEmail()
     {
