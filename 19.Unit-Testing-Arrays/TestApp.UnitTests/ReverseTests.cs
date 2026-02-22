@@ -20,7 +20,6 @@ public class ReverseTests
         Assert.That(result, Is.EqualTo(string.Empty));
     }
 
-    // TODO: finish the test
     [Test]
     public void Test_ReverseArray_InputHasOneElement_ShouldReturnTheSameElement()
     {
