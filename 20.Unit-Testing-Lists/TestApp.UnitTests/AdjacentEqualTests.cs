@@ -6,7 +6,6 @@ namespace TestApp.UnitTests;
 
 public class AdjacentEqualTests
 {
-    // TODO: finish test
     [Test]
     public void Test_Sum_InputIsEmptyList_ShouldReturnEmptyString()
     {

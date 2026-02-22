@@ -32,7 +32,6 @@ public class GaussTrickTests
         CollectionAssert.AreEqual(oneElementList, result);
     }
 
-    // TODO: finish the test
     [Test]
     public void Test_SumPairs_InputHasEvenCountElements_ShouldReturnSumPairs()
     {
