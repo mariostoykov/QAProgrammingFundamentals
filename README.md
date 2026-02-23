@@ -1,3 +1,5 @@
+# QA-Programming-Fundamentals
+
 This course covers fundamental programming concepts that form the foundation for effective and high-quality learning in professional modules on automated testing.
 
 The course covers:
